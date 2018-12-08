@@ -24,5 +24,10 @@ and
 
 Rho hat is the Pearson correlation coefficient between test statistics
 
+Using the method of moments, the parameters can be estimated as,
+
+![image](http://www.sciweavers.org/upload/Tex2Img_1544241135/eqn.png)
+
+![image](http://www.sciweavers.org/upload/Tex2Img_1544241211/eqn.png)
 
 [1] Yang, J.J. Distribution of fisher's combination statistic when the tests are dependent. J Stat Comput Sim 2010, 80, 1-12.
