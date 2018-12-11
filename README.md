@@ -4,11 +4,17 @@ In statistics, extensions of Fisher's method are a group of approaches that allo
 ## Fish’s method with weight and under statistics dependence condition
 
 ### Usage
+
 import efm
+
 f = efm.input(p,w,c)
+
 f.org()
+
 f.dep()
+
 f.wei()
+
 f.depwei()
 
 ### Method
