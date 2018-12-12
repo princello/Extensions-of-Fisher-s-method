@@ -9,12 +9,20 @@ import efm
 
 f = efm.input(p,w,c)
 
+#Application to independent test statistics
+
 f.org()
+
+#Extension to dependent test statistics
 
 f.dep()
 
+#Extension to weighted test statistics
+
 f.wei()
 
+#Extension to dependent and weighted test statistics
+ 
 f.depwei()
 
 ### Method
