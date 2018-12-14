@@ -7,24 +7,15 @@ In statistics, extensions of Fisher's method are a group of approaches that allo
 
 import efm
 
-#Initialize Fish’s method
-f = efm.input(p,w,c)
+f = efm.input(p,w,c) #Initialize Fish’s method
 
-#Application to independent test statistics
+f.org() #Application to independent test statistics
 
-f.org()
+f.dep() #Extension to dependent test statistics
 
-#Extension to dependent test statistics
-
-f.dep()
-
-#Extension to weighted test statistics
-
-f.wei()
-
-#Extension to dependent and weighted test statistics
+f.wei() #Extension to weighted test statistics
  
-f.depwei()
+f.depwei() #Extension to dependent and weighted test statistics
 
 ### Method
 Defining the statistic that followed a chi-squared distribution with 2 degrees of freedom,
