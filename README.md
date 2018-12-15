@@ -17,6 +17,7 @@ f.wei() #Extension to weighted test statistics
  
 f.depwei() #Extension to dependent and weighted test statistics
 
+
 ### Method
 Defining the statistic that followed a chi-squared distribution with 2 degrees of freedom,
 
