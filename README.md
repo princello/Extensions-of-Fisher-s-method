@@ -5,6 +5,7 @@ In statistics, extensions of Fisher's method are a group of approaches that allo
 
 ### Usage
 
+
 import efm
 
 f = efm.input(p,w,c) #Initialize Fish’s method
